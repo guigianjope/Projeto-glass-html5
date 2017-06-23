@@ -1,6 +1,6 @@
 <p align="center">
 <img src="_imagens/glass-oculos-preto-peq.png" /></br>
-    <h1> Projeto-glass-html5 </h1>
+    <h1><font color="blue" face="Verdana" size="14px"> Projeto-glass-html5 </font></h1>
   </a>
 </p>
 
